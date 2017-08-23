@@ -47,13 +47,20 @@ public class Question_4_Mail_Prices {
 
     public static int calculateStampPrice(boolean isRectangle, boolean isFlat) {
 
+
         /* TODO Calculate and return the price, in cents, to mail the letter.
+
+
         * Use the two boolean variables isRectangle and isFlat to figure out the cost.
         * Use the machinableLetterPrice and nonMachinableSurcharge variables declared above.
         */
+        int price = 49;
+        if(!isRectangle||!isFlat){
+            price += 21;
+        }
 
         //TODO delete this line and replace with your own code
-        return 0;   // This is the wrong answer, but Java requires us to return something.
+        return price;   // This is the wrong answer, but Java requires us to return something.
 
     }
 

@@ -21,7 +21,7 @@ package week_1;
         Set this boolean to true once you've completed this
     */
 
-    public boolean haveDoneReading = false;
+    public boolean haveDoneReading = true;
 
 
 
@@ -30,7 +30,8 @@ package week_1;
         Replace the empty string with your answer
      */
 
-    public String mostConfusingPartOfChapter1 = "";
+    public String mostConfusingPartOfChapter1 = "ch1 covers comparitors, but why doesn't java support multi"+
+            "conditions similar to python, ie: if(68<temp<74){comfortable = true}";
 
 
 
@@ -39,7 +40,7 @@ package week_1;
         Replace the empty string with your answer
      */
 
-    public String mostConfusingPartOfChapter2 = "";
+    public String mostConfusingPartOfChapter2 = "why is ^ a boolean operator? it drives all my math friends nuts...";
 
 
 
@@ -49,7 +50,7 @@ package week_1;
     *    Set this boolean to true once you've completed this
     */
 
-    public boolean haveInstalledJava8 = false;
+    public boolean haveInstalledJava8 = true;
 
 
 
@@ -62,7 +63,7 @@ package week_1;
     *    Set this boolean to true once you've completed this
     */
 
-    public boolean haveInstalleOrConfirmedInstallOfdGit = false;
+    public boolean haveInstalleOrConfirmedInstallOfdGit = true;
 
 
     /* Install IntelliJ ***Ultimate*** Edition on your own computer,
@@ -70,8 +71,8 @@ package week_1;
     *    Set these boolean to true once you've completed this
      */
 
-    public boolean haveInstalledIntelliJ = false;
-    public boolean installedUltimateEdition = false;
+    public boolean haveInstalledIntelliJ = true;
+    public boolean installedUltimateEdition = true;
 
 
 
@@ -81,7 +82,7 @@ package week_1;
     *    Set this boolean to true once you've completed this
     */
 
-    public boolean canRunHelloWorldProgram = false;
+    public boolean canRunHelloWorldProgram = true;
 
 
 
@@ -91,8 +92,8 @@ package week_1;
     *    Set this boolean to true once you've completed this
     */
 
-    public boolean haveReadEntireSyllabus = false;
-    public boolean contactedClaraWithAnyQuestionsOnSyllabus = false;
+    public boolean haveReadEntireSyllabus = true;
+    public boolean contactedClaraWithAnyQuestionsOnSyllabus = true;
 
 
 
@@ -104,7 +105,7 @@ package week_1;
     *  Set this boolean to true once you've completed this
     */
 
-    public boolean havePlannedWhenToWorkOnClass = false;
+    public boolean havePlannedWhenToWorkOnClass = true;
 
 
     /* Labs
@@ -119,8 +120,8 @@ package week_1;
     * Set these boolean to true once you've completed this
     */
 
-    public boolean understandHowToDoLabs = false;
-    public boolean haveLabRepoAndGitHubSetUpCorrectly = false;
+    public boolean understandHowToDoLabs = true;
+    public boolean haveLabRepoAndGitHubSetUpCorrectly = true;
 
 
 
@@ -128,14 +129,14 @@ package week_1;
      *    Set this boolean to true once you've completed this
     */
 
-    public boolean knowWhenOpenLabIs = false;
+    public boolean knowWhenOpenLabIs = true;
 
 
 
     /*  Make sure you have the textbook.
       *    Set this boolean to true once you've completed this
     */
-    public boolean haveTextbook = false;
+    public boolean haveTextbook = true;
 
 
 
@@ -151,7 +152,7 @@ package week_1;
     *    Set this boolean to true once you've completed this
     */
 
-    public boolean willAskForHelpIfNeeded = false;
+    public boolean willAskForHelpIfNeeded = true;
 
 
 }
